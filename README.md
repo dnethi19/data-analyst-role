@@ -9,7 +9,7 @@ To establish one to many relationship between Receipts and Brands, I have create
 
 
 
-2.	Added the SQL file to the repo.
+2.	Solved the first SQL query, and added the SQL file to the repo.
 
 
 
